@@ -1,10 +1,10 @@
-# test-search-input-with-close-button
+# demo-search-input-with-close-button
 
 :ledger: Build input with movable clear button
 
 ## Preview 🎉
 
-<https://piecioshka.github.io/test-search-input-with-close-button/>
+<https://piecioshka.github.io/demo-search-input-with-close-button/>
 
 or below:
 
